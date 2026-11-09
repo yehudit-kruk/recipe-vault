@@ -41,7 +41,7 @@ Nov 8, 2026 · Yehudit Kruk
 
 - [x] **יום א׳ (היום):** מאגר, מבנה תיקיות, מסמכים, CLAUDE.md, סקיל עיצוב
   - **תוצר:** קומיט ראשון ב-GitHub
-- [ ] **יום ב׳:** ‏docker-compose.yml בשורש עם PostgreSQL, שרת ASP.NET Core ריק עם Swagger ונקודת קצה ‎/health
+- [x] **יום ב׳:** ‏docker-compose.yml בשורש עם PostgreSQL, שרת ASP.NET Core ריק עם Swagger ונקודת קצה ‎/health
   - **תוצר:** ‏docker compose up ואז ‎/health מחזיר תשובה
 - [ ] **יום ג׳:** ‏EF Core עם Npgsql, המיגרציה הראשונה, פרויקט בדיקות xUnit עם בדיקה אחת
   - **תוצר:** השרת מתחבר לבסיס הנתונים והבדיקה עוברת

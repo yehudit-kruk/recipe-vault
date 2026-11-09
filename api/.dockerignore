@@ -1,0 +1,16 @@
+# Build output and local tooling: rebuilt inside the image
+**/bin/
+**/obj/
+**/.vs/
+**/.vscode/
+**/*.user
+**/TestResults/
+
+# Secrets never go into an image
+**/.env
+**/.env.*
+**/secrets.json
+
+# Docker files themselves are not needed inside the image
+Dockerfile
+.dockerignore

@@ -194,7 +194,7 @@ az --version
 ```
 recipe-vault/
   api/
-    RecipeVault.sln
+    RecipeVault.slnx
     src/
       RecipeVault.Api/             ASP.NET Core Web API
       RecipeVault.Core/            לוגיקה עסקית, בלי הפניות לחבילות ענן

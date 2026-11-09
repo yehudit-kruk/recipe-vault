@@ -30,7 +30,7 @@
 
 ```
 api/
-  RecipeVault.sln
+  RecipeVault.slnx
   src/
     RecipeVault.Api/             Web API, controllers, DI
     RecipeVault.Core/            business logic, no cloud packages
