@@ -60,6 +60,10 @@ playwright/.cache/
 docker-compose.override.yml
 .docker-data/
 
+# ===== Claude Code =====
+# skills are installed locally (npx ui-ux-pro-max-cli init --ai claude)
+.claude/skills/
+
 # ===== Logs =====
 logs/
 *.log
